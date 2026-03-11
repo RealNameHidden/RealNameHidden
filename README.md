@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Dheeraj Ashok Shobha
+# Dheeraj As
 
 ### Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast
 
