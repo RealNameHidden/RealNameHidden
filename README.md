@@ -21,18 +21,11 @@ Building reliable backend systems, integration-heavy platforms, and pragmatic to
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Right now
 
 - Senior Software Developer at `PTC Inc.`
 - Working on PLM integrations and legacy Java systems
 - Based in `Toronto, Canada`
-
-    </td>
-    <td width="50%" valign="top">
 
 ### What I enjoy building
 
@@ -40,35 +33,17 @@ Building reliable backend systems, integration-heavy platforms, and pragmatic to
 - Developer tooling that reduces debugging time
 - Event-driven and cloud-native workflows
 
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
 ### Focus
 
-Semantic search, system reliability, and cleaner integration flows.
-
-    </td>
-    <td width="33%" valign="top">
+> Semantic search, system reliability, and cleaner integration flows.
 
 ### Ask Me About
 
 `Java` `Go` `Spring` `REST APIs` `IoT platforms` `debugging`
 
-    </td>
-    <td width="33%" valign="top">
-
 ### Background
 
 MEng in Software Engineering from `Concordia University` and Azure Developer Associate certified.
-
-    </td>
-  </tr>
-</table>
 
 ## Tech Stack
 
@@ -103,46 +78,35 @@ Developer tools that shorten feedback loops
 Cloud-native demos with real system patterns
 ```
 
+## Recently Launched
+
+### [LeetCode Archive](https://realnamehidden.github.io/leetcode-runthrough/)
+> A live collection of LeetCode walkthroughs and practice notes, published as a browsable site.
+
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realnamehidden.github.io/leetcode-runthrough/)
+[![Repository](https://img.shields.io/badge/Repository-leetcode--runthrough-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealNameHidden/leetcode-runthrough)
+
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [AI-Powered Error Resolver CLI](https://github.com/RealNameHidden/cmdline_ai_error_resolver)
-Go CLI that stores error-to-fix pairs in `Qdrant` and uses embedding-based semantic search to surface relevant historical fixes faster.
+> Go CLI that stores error-to-fix pairs in `Qdrant` and uses embedding-based semantic search to surface relevant historical fixes faster.
 
 **Highlights:** Go, embeddings, semantic search, developer productivity
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [Kafka Pizza Tracker](https://github.com/RealNameHidden/kafka-pizza-tracker)
-Event-driven demo in Go that models order tracking and processing with Kafka to reflect stream-based system design patterns.
+> Event-driven demo in Go that models order tracking and processing with Kafka to reflect stream-based system design patterns.
 
 **Highlights:** Go, Kafka, async workflows, event-driven design
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### [Microservices Orchestration](https://github.com/RealNameHidden/microservices-employee)
-Spring Boot microservices setup with containerized services, gateway routing, service discovery, and environment-aware configuration.
+> Spring Boot microservices setup with containerized services, gateway routing, service discovery, and environment-aware configuration.
 
 **Highlights:** Spring Boot, Docker, Kubernetes, API Gateway
 
-    </td>
-    <td width="50%" valign="top">
-
 ### [Contoso Chat](https://github.com/RealNameHidden/contoso-chat)
-An end-to-end RAG application using Prompty and Azure AI Foundry, with deployment automation and evaluation workflows.
+> An end-to-end RAG application using Prompty and Azure AI Foundry, with deployment automation and evaluation workflows.
 
 **Highlights:** RAG, Azure AI Foundry, AZD, GitHub Actions
-
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <a href="https://github.com/RealNameHidden?tab=repositories">See more repositories</a>
