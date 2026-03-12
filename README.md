@@ -3,16 +3,21 @@
 </div>
 
 <div align="center">
-# Dheeraj As
+  <h1>Dheeraj As</h1>
 
-### Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast
+  <h3>Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast</h3>
 
-Building reliable backend systems, integration-heavy platforms, and pragmatic tooling that helps teams move faster.
+  <p>Building reliable backend systems, integration-heavy platforms, and pragmatic tooling that helps teams move faster.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-a-348b3a103/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealNameHidden)
 [![Email](https://img.shields.io/badge/Email-dheeraj.as008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj.as008@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](assets/resume/Resume%20-%20Java%20and%20Go.pdf)
+
+  <br />
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=RealNameHidden&label=views&color=6e7781&style=flat" alt="Profile views" />
+  </sub>
 
 </div>
 
@@ -129,14 +134,6 @@ Cloud-native demos with real system patterns
   <a href="https://www.linkedin.com/in/dheeraj-a-348b3a103/">LinkedIn</a> •
   <a href="https://github.com/RealNameHidden">GitHub</a> •
   <a href="assets/resume/Resume%20-%20Java%20and%20Go.pdf">Resume</a>
-</div>
-
-<div align="center">
-  <sub>
-    <a href="https://github.com/RealNameHidden">
-      <img src="https://komarev.com/ghpvc/?username=RealNameHidden&label=views&color=6e7781&style=flat" alt="Profile views" />
-    </a>
-  </sub>
 </div>
 
 ---
