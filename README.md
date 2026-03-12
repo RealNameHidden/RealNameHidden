@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-
 # Dheeraj As
 
 ### Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast
@@ -130,6 +129,14 @@ Cloud-native demos with real system patterns
   <a href="https://www.linkedin.com/in/dheeraj-a-348b3a103/">LinkedIn</a> •
   <a href="https://github.com/RealNameHidden">GitHub</a> •
   <a href="assets/resume/Resume%20-%20Java%20and%20Go.pdf">Resume</a>
+</div>
+
+<div align="center">
+  <sub>
+    <a href="https://github.com/RealNameHidden">
+      <img src="https://komarev.com/ghpvc/?username=RealNameHidden&label=views&color=6e7781&style=flat" alt="Profile views" />
+    </a>
+  </sub>
 </div>
 
 ---
