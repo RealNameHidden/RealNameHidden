@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <h1>Dheeraj As</h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2500&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Dheeraj+As"
+    alt="Dheeraj As"
+  />
 
   <h3>Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast</h3>
 
@@ -13,11 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealNameHidden)
 [![Email](https://img.shields.io/badge/Email-dheeraj.as008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj.as008@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)](assets/resume/Resume%20-%20Java%20and%20Go.pdf)
-
-  <br />
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=RealNameHidden&label=views&color=6e7781&style=flat" alt="Profile views" />
-  </sub>
 
 </div>
 
