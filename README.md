@@ -138,4 +138,6 @@ Cloud-native demos with real system patterns
 
 <div align="center">
   <sub>Thanks for stopping by. I like building systems that are practical, observable, and easy to debug.</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=RealNameHidden&style=flat-square&color=58A6FF&label=visitors" alt="visitor count" />
 </div>
