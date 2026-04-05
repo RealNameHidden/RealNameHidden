@@ -26,7 +26,7 @@
 ### Right now
 
 - Senior Software Developer at `PTC Inc.`
-- Working on PLM integrations and legacy Java systems
+- Cutting work instruction retrieval from 25s → under 1s with a two-tier caching strategy
 - Based in `Toronto, Canada`
 
 ### What I enjoy building
