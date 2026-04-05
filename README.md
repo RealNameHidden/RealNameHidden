@@ -8,9 +8,9 @@
     alt="Dheeraj As"
   />
 
-  <h3>Backend Engineer | Java & Go Builder | Developer Tooling Enthusiast</h3>
+  <h3>Backend Engineer | IoT Systems at Scale | Java & Go</h3>
 
-  <p>Building reliable backend systems, integration-heavy platforms, and pragmatic tooling that helps teams move faster.</p>
+  <p>Shipped event-driven IoT systems processing 100K events/sec across 25 live factory floors. Now building PLM integrations and developer tooling at PTC Inc.</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-a-348b3a103/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealNameHidden)
@@ -31,17 +31,17 @@
 
 ### What I enjoy building
 
+- Event-driven pipelines and distributed IoT systems
 - Backend systems with `Java`, `Spring Boot`, and `Go`
 - Developer tooling that reduces debugging time
-- Event-driven and cloud-native workflows
 
 ### Focus
 
-> Semantic search, system reliability, and cleaner integration flows.
+> High-throughput event processing, system reliability, and cleaner integration flows.
 
 ### Ask Me About
 
-`Java` `Go` `Spring` `REST APIs` `IoT platforms` `debugging`
+`Java` `Go` `Kafka` `Spring Boot` `IoT platforms` `Distributed Systems` `debugging`
 
 ### Background
 
@@ -57,27 +57,35 @@ MEng in Software Engineering from `Concordia University` and Azure Developer Ass
 
 ### Backend and Frontend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data and Infrastructure
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Observability
+![Spring Boot Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 ## What I Build
 
 ```text
-Reliable APIs
-Integration-heavy backend workflows
+High-throughput event-driven pipelines
+Distributed IoT platforms at manufacturing scale
+PLM and enterprise system integrations
 Developer tools that shorten feedback loops
-Cloud-native demos with real system patterns
 ```
 
 ## Recently Launched
@@ -90,25 +98,20 @@ Cloud-native demos with real system patterns
 
 ## Featured Projects
 
+### [OpenGrok MCP Server](https://github.com/RealNameHidden)
+> Go MCP server that connects AI coding tools (Cursor, Claude Code, VS Code) to OpenGrok-indexed codebases, enabling fast symbol search, definition lookup, and reference resolution across large repos.
+
+**Highlights:** Go, MCP, AI tooling, code navigation
+
 ### [AI-Powered Error Resolver CLI](https://github.com/RealNameHidden/cmdline_ai_error_resolver)
-> Go CLI that stores error-to-fix pairs in `Qdrant` and uses embedding-based semantic search to surface relevant historical fixes faster.
+> Go CLI that stores error→fix pairs in `Qdrant` and uses embedding-based semantic search to retrieve similar past issues. Built structured prompts, embedding generation, and search workflows to help developers quickly surface relevant fixes.
 
 **Highlights:** Go, embeddings, semantic search, developer productivity
 
-### [Kafka Pizza Tracker](https://github.com/RealNameHidden/kafka-pizza-tracker)
-> Event-driven demo in Go that models order tracking and processing with Kafka to reflect stream-based system design patterns.
+### [Resume Search Engine — Microservices](https://github.com/RealNameHidden)
+> AI-powered microservices recruitment platform — event-driven resume ingestion pipeline using Kafka and the Claude API to parse unstructured PDFs into structured candidate profiles indexed in Elasticsearch, with a natural language search engine and Redis caching, deployed on Kubernetes with Consul service discovery.
 
-**Highlights:** Go, Kafka, async workflows, event-driven design
-
-### [Microservices Orchestration](https://github.com/RealNameHidden/microservices-employee)
-> Spring Boot microservices setup with containerized services, gateway routing, service discovery, and environment-aware configuration.
-
-**Highlights:** Spring Boot, Docker, Kubernetes, API Gateway
-
-### [Contoso Chat](https://github.com/RealNameHidden/contoso-chat)
-> An end-to-end RAG application using Prompty and Azure AI Foundry, with deployment automation and evaluation workflows.
-
-**Highlights:** RAG, Azure AI Foundry, AZD, GitHub Actions
+**Highlights:** Kafka, Elasticsearch, Redis, Claude API, Kubernetes, Consul
 
 <div align="center">
   <a href="https://github.com/RealNameHidden?tab=repositories">See more repositories</a>
